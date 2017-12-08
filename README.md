@@ -4,3 +4,9 @@ These are the algorithms I made and used for the Advent of Code challenge in Dec
 
 Questions can be found here:
 https://adventofcode.com
+
+
+So far I have:
+Day 1:
+☑️ Part 1
+☑️ Part 2
