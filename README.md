@@ -5,5 +5,7 @@ These are the algorithms I wrote and used to solve for the Advent of Code challe
 The original questions can be found [here](https://adventofcode.com/).
 
 
+
 My Solutions:
+
 [Day 1](https://github.com/mkowaleff/Advent-Of-Code-Solutions/blob/master/Day1.java)
