@@ -2,11 +2,8 @@
 
 These are the algorithms I made and used for the Advent of Code challenge in December 2017
 
-Questions can be found here:
-https://adventofcode.com
+The original questions can be found [here](https://adventofcode.com/).
 
+So far I've solved:
 
-So far I have:
-Day 1:
-☑️ Part 1
-☑️ Part 2
+[Day 1](https://github.com/mkowaleff/Advent-Of-Code-Solutions/blob/master/Day1.java)
