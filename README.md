@@ -10,6 +10,5 @@ The original questions can be found [here](https://adventofcode.com/).
 
 **My Solutions:**
 
-[Day 1](https://github.com/mkowaleff/Advent-Of-Code-Solutions/blob/master/Day1.java)
-
-[Day 2](https://github.com/mkowaleff/Advent-Of-Code-Solutions/blob/master/Day2.java)
+- [Day 1](https://github.com/mkowaleff/Advent-Of-Code-Solutions/blob/master/Day1.java)
+- [Day 2](https://github.com/mkowaleff/Advent-Of-Code-Solutions/blob/master/Day2.java)
