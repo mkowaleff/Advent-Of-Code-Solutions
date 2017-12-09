@@ -1,6 +1,6 @@
 # Advent-Of-Code-Solutions
 
-These are the algorithms I made and used for the Advent of Code challenge in December 2017
+These are the algorithms I wrote and used to solve for the Advent of Code challenges in December 2017
 
 The original questions can be found [here](https://adventofcode.com/).
 
